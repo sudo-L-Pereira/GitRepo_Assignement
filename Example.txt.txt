@@ -1,6 +1,2 @@
 Hi i just added a new line to the text file
-<<<<<<< HEAD
-added 2 lines of code
-=======
-second line of text
->>>>>>> origin/master
+new Line of code added by sorting the merge conflict
